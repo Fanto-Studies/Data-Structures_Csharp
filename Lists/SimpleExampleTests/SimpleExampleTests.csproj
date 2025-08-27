@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SimpleArrays\SimpleArrays.csproj" />
+    <ProjectReference Include="..\SimpleExample\SimpleExample.csproj" />
   </ItemGroup>
 
 </Project>

@@ -90,6 +90,19 @@ foreach (int number in numbers) {
 
 ```
 
+### LINQ
+
+We can use LINQ to show information from an Array:
+
+```csharp
+
+int[] numbers = { 1, 2, 3, 4, 5, 6};
+
+Console.WriteLine($"\nReading array using LINQ: {string.Join(" | ", numbers)}");
+
+
+```
+
 ## Array Properties and Methods
 
 - In C# you can use a defined methods in your arrays.

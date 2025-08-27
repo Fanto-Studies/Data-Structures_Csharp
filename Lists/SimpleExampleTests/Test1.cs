@@ -1,4 +1,4 @@
-﻿namespace SimpleArraysTests;
+﻿namespace SimpleExampleTests;
 
 [TestClass]
 public sealed class Test1
