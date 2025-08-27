@@ -5,7 +5,7 @@
 - It always start with the first position at **0**.
 
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/Arrays/1.png" width="200">
+    <img src="../images/Arrays/1.png">
 </td></tr></table>
 
 ## Declaration and Initialization
